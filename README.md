@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huseynstudent
 - 👀 I’m interested in Full Stack and Unreal 5
-- 🌱 I’m currently learning web dev-( .NET/EF {C#}, React{JS} )
+- 🌱 I’m currently learning web dev-( MVC/WebApi, .NET/EF {C#}, React{JS} )
 - 💞️ I’m looking to collaborate on indie game and webpage projects
 - 📫 How to reach me :huseynstudent5628@gmail.com
 - 😄 Pronouns: he/him
